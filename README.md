@@ -160,6 +160,16 @@ Este proyecto proporciona valiosos conocimientos sobre el estado de las telecomu
 Los resultados del análisis se pueden utilizar para identificar áreas para mejorar el servicio y para rastrear cambios en el acceso a Internet a lo largo del tiempo.<br>
 Los datos limpios y procesados también se guardan para un análisis más profundo en Power BI.</p>
 
+<h2 align= "center">Contato</h2>
+
+<br>
+
+<p align="center">"Estoy a tu disposición para cualquier consulta, sugerencia o simplemente para establecer una comunicación contigo. Puedes ponerte en contacto conmigo de las siguientes maneras:"</p>
+<br>
+<p align="center">Correo Electrónico: [jeffersson2210@gmail.com](mailto:jeffersson2210@gmail.com)</p>
+
+<p align="center">LinkedIn: [Jeferson Tonetto mogollon](https://www.linkedin.com/in/jeferson-tonetto-mogollon-09ba311b0/)</p>
+
 <br>
 
 <p align="center">
