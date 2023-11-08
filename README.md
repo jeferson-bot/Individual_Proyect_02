@@ -124,6 +124,43 @@ El cuaderno concluye con los datos limpios guardados como un archivo CSV para su
 
 <br>
 
+<h2 align= "center">KPIs</h2>
+
+<p align="center">Este proyecto utiliza dos indicadores clave de rendimiento (KPIs) para medir el rendimiento y el progreso.</p>
+
+<h2 align= "center">KPI Principal</h2>
+
+<p align="center">El KPI principal que estamos utilizando es:</p>
+
+<p align="center">- _Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia_.</p>
+
+<p align="center">La fórmula para calcular este KPI es:</p>
+
+<p align="center">KPI = ((Nuevo acceso - Acceso actual) / Acceso actual) * 100</p>
+
+<br>
+
+<h2 align= "center">KPI Secundario</h2>
+
+<p align="center">Además del KPI principal, también estamos mediendo y graficando un segundo KPI que consideramos relevante para la temática.</p>
+
+<p align="center">
+Además del KPI principal, estamos identificando y tomando medidas para mejorar el acceso a Internet en las áreas que lo necesitan más. Este KPI secundario se centra en las provincias donde el porcentaje de viviendas sin acceso a Internet es menor al 40%.</p>
+
+<p align="center">Este KPI nos permite identificar las áreas que están por debajo del promedio en términos de acceso a Internet y tomar medidas para mejorar este aspecto. Al mejorar el acceso a Internet en estas áreas, estamos viendo estas provincias como oportunidades para el crecimiento y estamos trabajando para hacer que estas áreas tengan acceso a Internet.</p>
+
+<p align="center">Este KPI nos ayuda a entender mejor las áreas que necesitan mejoras y nos permite centrar nuestros esfuerzos en estas áreas para maximizar el impacto de nuestras iniciativas.</p>
+
+<p align="center">Estos KPIs nos permiten evaluar el rendimiento de nuestro proyecto y hacer ajustes según sea necesario para mejorar el servicio de Internet en cada provincia.</p>
+
+<br>
+
+<p align="center">
+ <img src="imagenes\OIG2.jpg" alt="br" width="1200" height="50">
+</p>
+
+<br>
+
 <h2 align= "center">Datos</h2>
 
 <br>
